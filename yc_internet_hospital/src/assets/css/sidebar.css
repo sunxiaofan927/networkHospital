@@ -1,0 +1,20 @@
+.el-icon-arrow-down{
+    color: #fff!important;
+}
+.el-submenu >.el-menu{
+    background: rgb(0,31,59);
+    /* background:url('../../assets/img/bg.png')0 0 no-repeat; */
+}
+.el-menu{
+    background: rgb(0,31,59);
+    /* background:url('../../assets/img/bg.png')0 0 no-repeat; */
+    color: #000;
+}
+.el-submenu__title:hover{
+    /* background:#5953A2!important; */
+    background: rgb(0,31,59);
+}
+.el-submenu__title:focus, .el-submenu__title:hover{
+    /* background:#5953A2!important; */
+    background: rgb(0,31,59);
+}

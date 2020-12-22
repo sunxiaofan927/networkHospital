@@ -1,0 +1,50 @@
+18511066168：这是医师的
+123456  院长的
+17611391617：机构
+123：药师的
+
+登录文档国辉的接口
+http://note.youdao.com/noteshare?id=67c8318788dfd0aa215576d68e937040
+超凡的接口文档
+http://note.youdao.com/noteshare?id=fab58b8884f1653b11928c4dc3a6d3a5
+
+http://note.youdao.com/noteshare?id=fab58b8884f1653b11928c4dc3a6d3a5
+将乐的接口
+https://note.youdao.com/ynoteshare1/index.html?id=aaf5e886210ae4d41a6db2ece1ac9f62&type=note
+http://gtdoctor.api.120yun.cn
+http://gtapi.120yun.cn
+gtpc.120yun.cn
+
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+结算  ， 图片上传  
+修改
+
+idcard_url 身份证反面照
+qualification_url医师资格证书照片
+certificate_url医师职称证书
+cert_doc_prac医师执业证书
+
+
+添加
+idcard_url身份证正面照片
+qualification_url医师资格证书照
+certificate_url医师职称证书照片
+cert_doc_prac医师执业证书
+employ_file_url 互联网医院聘任合同1
+employ_file_url2互联网医院聘任合同2
+
+详情
+doctor_idcard_url身份证正面照片
+doctor_qualification_url医师资格证书照片
+doctor_certificate_url职称
+
+
+药师
+pharmacist_qualification_url 药师资格证书
+pharmacist_idcard_url1身份证正面
+修改
+pharmacist_idcard_url1身份证正面
+pharmacist_qualification_url1药师资格证书照片
+查看
+pharmacist_idcard_url身份证反面照
+pharmacist_qualification_url药师资格证书照片

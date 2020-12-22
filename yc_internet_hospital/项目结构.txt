@@ -1,0 +1,61 @@
+component 组件页
+    header 头部
+    Home 主页
+    sidebar 导航页
+    tags 标签页
+    chart 画布  数据图页面
+    404  无权限页面
+    Circler 
+api 接口封装
+    api.js 接口
+    axios.js 请求
+
+navigation  导航目录
+    login 登录页
+    presentation  首页
+    administrative 订单管理    
+    details 账号设置
+    system 版本更新管理
+    statistics 权限管理
+    office 专家会诊
+    addPhar 药师
+    addDrugStore 药店
+    video 视频订单
+    administrative 图文订单
+    clicenDetails 图文订单详情
+    BasicData 协议管理
+    quality 处方管理
+    secondLevel二级科室管理
+    pharmaDetails 药师审核详情
+    pharmacist 药师管理
+    pharmaCheck 医师审核
+    particulars 医生管理详情
+    newly 用户
+    informatization 信息管理
+    information 信息发布管理
+    firstLeve 一级科室管理
+    evaluate 评价
+    drugstore 药店管理
+    drug药品库管理
+    doctotTeam医师管理团队
+    doctorDetails 审核详情
+    doctorCheck 医生审核
+    diabetes 糖尿病患者管理
+    details 账号管理
+    client 用户管理
+    clicenDetails 图文订单
+    BasicData 协议管理
+    banner banner管理
+用到的技术：富文本编辑 
+https://www.jianshu.com/p/5f07fdfd02ce
+
+
+build webpack 打包配置文件
+config  开发配置文件 开发或者生产模式时候的编译路劲 主入口 还有打包包名，跨域处理等的 配置
+dist 文件是编译后的文件 直接可打包放入线上解压  
+node_moules 插件库 ，一般开发不会携带改目录  可自行初始化 安装一下  cnpm /  npm i
+src 开发文件
+static 静态文件  这个目录的文件不会被编译
+运行 命令请看 package.json
+
+

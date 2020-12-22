@@ -1,0 +1,44 @@
+.el-input{
+    background: rgba(0,0,0,0)!important;
+}
+
+input{
+    width: 100%!important;
+}
+/* .el-button .el-button--success{
+    width: 100%;
+} */
+.el-input--suffix .el-input__inner{
+    background: rgba(0,0,0,0)!important;
+    height: 80%;
+}
+button{
+    width: 100%;
+    border-radius: 50px;/*no*/
+    height: 40px;
+    background: rgb(84,207,219);
+    border-color:rgb(84,207,219) ;
+}
+button:hover{
+    background: rgb(84,207,219);
+    border-color:rgb(84,207,219) ;
+}
+button:focus{
+    background: rgb(84,207,219);
+    border-color:rgb(84,207,219) ;
+}
+.el-input.is-active .el-input__inner, .el-input__inner:focus{
+    border: none!important;
+}
+
+.el-input__inner[DangerColor="danger"] {
+    background-color: #F56C6C;    
+  }
+   
+  .el-input__inner[WarningColor="warning"] {
+    background-color: #E6A23C;   
+  }
+   
+  .el-input__inner[SuccessColor="success"] {
+    background-color: #67C23A;   
+  }
